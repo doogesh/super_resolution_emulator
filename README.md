@@ -9,3 +9,5 @@ Doogesh Kodi Ramanah, Tom Charnock, Francisco Villaescusa-Navarro, Benjamin D. W
 #### Note:  
 1) The notebook `super_resolution_emulator.ipynb` contains an in-depth and stepwise description of the network implementation and training routine;
 2) Please cite the above paper if you make use of our code.
+
+<img src="super_resolution_emulator_schematic.png" alt="Drawing" style="width: 1250px;"/>
